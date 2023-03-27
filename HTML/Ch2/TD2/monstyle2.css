@@ -1,0 +1,39 @@
+body {
+	padding-left: 11em;
+	font-family: Georgia, "Times New Roman",
+		Times, serif;
+	background-color: #cccccc}
+
+ul.navbar{
+	list-style-type: none;
+	padding-left: 0;
+	margin: 0;
+	top: 2em;
+	}
+	
+ul.navbar li{
+	background: #008000;
+	margin: 0.5em 0;
+	padding: 0.3em;
+	width: 9em;
+	height: 4em;
+	float:left;
+	border-left: 1em
+solid black;}
+
+  ul.navbar a{
+		text-decoration: none;}
+	a:link{
+		color: white;}
+	a:visited{
+		color: yellow;}
+
+address{
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted;}
+  
+h1 {
+	font-family: Helvetica, Geneva, Arial,
+		SunSans-Regular, sans-serif;}
+	
